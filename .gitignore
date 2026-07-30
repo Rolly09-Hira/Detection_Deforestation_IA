@@ -21,5 +21,12 @@ Thumbs.db
 # Logs
 *.log
 
-#données voluùeux
+# Données volumineuses
 data/
+
+# Modèles entraînés
+models/*.keras
+models/*.h5
+
+# Résultats générés
+results/
